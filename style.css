@@ -229,7 +229,7 @@ p {
         width: 100%;
 
         border-right: none;
-        border-bottom: 4px solid #d83b68;
+        /* border-bottom: 4px solid #d83b68; */
     }
 
     nav {
